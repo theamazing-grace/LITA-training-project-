@@ -1,6 +1,6 @@
-# LITA Capstone Project
+# Project Title: Sales Performance Analysis 
 
-### Project Title: Sales Performance Analysis 
+##  Table of Contents 
 
 [Project Overview](#project-overview)
 
@@ -22,7 +22,7 @@ The aim of this Data Analysis project is to generate insight into the sales perf
 
 ### Data Sources
 - - -
-The main source of data used in this project is Sales Data.xls and this was gotten from The Incubator Hub solely for the purpose of the Capstone Project.     
+The main source of data used in this project is the Sales Data.xls file and this was gotten from The Incubator Hub solely for the purpose of the Capstone Project.     
 
 
 ### Tools Used
@@ -32,7 +32,7 @@ The main source of data used in this project is Sales Data.xls and this was gott
   2. for  Analysis
   3. for Visualization
      
-- SQL- Structured Querying of Data 
+- SQL Server- Structured Querying of Data 
   
 - Power BI   [Download Here](https://www.microsoft.com)
   1. for Data Cleaning
@@ -68,7 +68,7 @@ This process involved the exploration of the data to create certain reports and 
 
 ### Data Analysis 
 - - -
-This is where we include some basic lines of code or queries or even 
+This includes some basic lines of code or queries worked with 
 
 ```SQL
 SELECT *FROM [dbo].[SALES DATA]
@@ -81,6 +81,14 @@ GROUP BY  orderdate
 ORDER BY orderdate desc
 
  
+### Results and Findings
+- - -
+
+### Recommendations
+- - -
+
+### Limitations
+- - - 
 
 ### Data Visualization
 - - -  

@@ -4,7 +4,7 @@
 
 ### Project overview 
 - - - 
-The aim of this Data Analysis project is to generate insight into the sales performance of a retail store from the past year to the month of August of this current year(2024). we want to achieve this by analysing the different informations in the dataset received. Additionally we will obtain sufficient information to make rational decisions, which will allow us to use the information to create simple and captivating narrtaives about our data and determine its best performance.
+The aim of this Data Analysis project is to generate insight into the sales performance of a retail store from the past year to the month of August of this current year(2024). we want to achieve this by analysing the different informations in the dataset received. Additionally we will obtain sufficient information to make rational decisions, which will allow us to use the information to create simple and captivating narratives about our data and determine its best performance.
 
 
 ### Data Sources

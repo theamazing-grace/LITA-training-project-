@@ -1,6 +1,6 @@
-# LITA-training-project-
+# LITA Capstone Project
 
-### Project Title: E commerce sales analysis 
+### Project Title: Sales Data Analysis 
 
 ### Project overview 
 

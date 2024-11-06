@@ -2,6 +2,19 @@
 
 ### Project Title: Sales Performance Analysis 
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Visualization](#data-visualization)
+
+
 ### Project overview 
 - - - 
 The aim of this Data Analysis project is to generate insight into the sales performance of a retail store from the past year to the month of August of this current year(2024). we want to achieve this by analysing the different informations in the dataset received. Additionally we will obtain sufficient information to make rational decisions, which will allow us to use the information to create simple and captivating narratives about our data and determine its best performance.
@@ -59,6 +72,12 @@ This process involved the exploration of the data to create certain reports and 
 ```SQL
 SELECT FROM TABLE 1
 WHERE CONDITION = TRUE
+
+
+### Data Visualization
+- - -  
+
+
 
 
 

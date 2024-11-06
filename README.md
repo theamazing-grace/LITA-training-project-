@@ -68,11 +68,19 @@ This process involved the exploration of the data to create certain reports and 
 
 ### Data Analysis 
 - - -
+This is where we include some basic lines of code or queries or even 
 
 ```SQL
-SELECT FROM TABLE 1
-WHERE CONDITION = TRUE
+SELECT *FROM [dbo].[SALES DATA]
 
+SELECT product,SUM (totalrevenue) as totalsales from[dbo].[SALES DATA]
+GROUP BY product
+
+SELECT totalrevenue from [dbo].[Sales data]
+GROUP BY  orderdate
+ORDER BY orderdate desc
+
+ 
 
 ### Data Visualization
 - - -  

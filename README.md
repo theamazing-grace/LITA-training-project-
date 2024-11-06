@@ -3,14 +3,17 @@
 ### Project Title: Sales Performance Analysis 
 
 ### Project overview 
-The aim of this Data Analysis project is to generate insight into the ales performance of a retail store from the past year to the month of August of this current year(2024). we want to achieve this by analysing the different informations in the dataset received. Additionally we will obtain sufficient information to make rational decisions, which will allow us to use the information to create simple and captivating narrtaives about our data and determine its best performance.
+- - - 
+The aim of this Data Analysis project is to generate insight into the sales performance of a retail store from the past year to the month of August of this current year(2024). we want to achieve this by analysing the different informations in the dataset received. Additionally we will obtain sufficient information to make rational decisions, which will allow us to use the information to create simple and captivating narrtaives about our data and determine its best performance.
 
 
 ### Data Sources
+- - -
 The main source of data used in this project is Sales Data.xls and this was gotten from The Incubator Hub solely for the purpose of the Capstone Project.     
 
 
-### Tools Used 
+### Tools Used
+- - -
 - MIcrosoft Excel  [Download Here](https://www.microsoft.com)
   1. for Data Cleaning
   2. for  Analysis
@@ -26,6 +29,7 @@ The main source of data used in this project is Sales Data.xls and this was gott
   
 
 ### Data Cleaning and Preparation
+- - -
 During the first stage of the data cleaning and preparation we carried out the following tasks: 
 1. Data loading  and examination
 2. Handling missing variables
@@ -33,14 +37,24 @@ During the first stage of the data cleaning and preparation we carried out the f
 4. Data cleaning and formatting   
 
 
-### Exploratory Data Analysis 
+### Exploratory Data Analysis
+- - -
 This process involved the exploration of the data to create certain reports and provide answers to some questions about the data such as;
-- summary of total sales by product, region, and month using pivot tables
+- summary of total sales by product, region, and month using pivot tables.
 - what is the average sales per product?
-- what is the total reveenue by region? 
+- what is the total reveenue by region?
+- retrieve the total sales for each product category.
+- find the number of sales transactions in each region.
+- find the highest-selling product by total sales value. 
+- calculate total revenue per product.
+- calculate monthly sales totals for the current year.
+- find the top 5 customers by total purchase amount.
+- calculate the percentage of total sales contributed by each region.
+- identify products with no sales in the last quarter.
 
 
 ### Data Analysis 
+- - -
 
 ```SQL
 SELECT FROM TABLE 1
